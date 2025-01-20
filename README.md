@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm currently working on an accounting degree, and I'm interested in developing my understanding of data analytics, particularly on sustainability initiatives. 
 
 <!--
 **johnbarayuga25/johnbarayuga25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
